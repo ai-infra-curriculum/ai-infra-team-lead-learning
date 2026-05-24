@@ -63,11 +63,11 @@ By completing this curriculum, you will be able to:
 
 | Project | Description | Duration | Type |
 |---------|-------------|----------|------|
-| **01** | [Team Process Implementation](projects/project-01-team-process/) | 60 hours | Process Design |
-| **02** | [Technical Strategy & Roadmap](projects/project-02-technical-strategy/) | 60 hours | Strategic Planning |
-| **03** | [Hiring & Onboarding Pipeline](projects/project-03-hiring-onboarding/) | 60 hours | People Management |
-| **04** | [Cross-Functional Platform Project](projects/project-04-platform-project/) | 80 hours | Project Leadership |
-| **05** | [Leadership Capstone](projects/project-05-leadership-capstone/) | 40 hours | Portfolio & Presentation |
+| **01** | Team Process Implementation _(planned)_ | 60 hours | Process Design |
+| **02** | Technical Strategy & Roadmap _(planned)_ | 60 hours | Strategic Planning |
+| **03** | Hiring & Onboarding Pipeline _(planned)_ | 60 hours | People Management |
+| **04** | Cross-Functional Platform Project _(planned)_ | 80 hours | Project Leadership |
+| **05** | Leadership Capstone _(planned)_ | 40 hours | Portfolio & Presentation |
 
 ## 🚀 Getting Started
 
@@ -345,7 +345,7 @@ MIT License - See [LICENSE](LICENSE) for details
 ---
 
 **Ready to start your leadership journey?** 🚀
-Begin with [Module 101: Leadership Fundamentals](lessons/mod-101-leadership-fundamentals/)
+Begin with [Module 701: Team Operations](lessons/mod-701-team-operations/)
 
 **Questions?** Open an issue or join our community discussions!
 
