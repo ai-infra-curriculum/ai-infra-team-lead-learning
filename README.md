@@ -6,6 +6,10 @@
 
 Welcome to the **AI Infrastructure Team Lead / Engineering Manager Learning Repository**! This curriculum is designed to prepare experienced AI infrastructure engineers for technical leadership and people management roles.
 
+## ✨ What's new — 2026-05-27
+
+The `01-overview.md` lecture for every module (`mod-701-team-operations` through `mod-705-hiring-onboarding`) has been expanded from a 5-line stub into a substantive 120-150 line lecture. Each covers what the module is about at this altitude, the shape of the work, the core skills, common failure modes, what good looks like, and further reading. Audit score: 70.
+
 ## 🎯 Learning Objectives
 
 By completing this curriculum, you will be able to:
