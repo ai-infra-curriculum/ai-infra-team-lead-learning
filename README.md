@@ -357,3 +357,9 @@ Begin with [Module 701: Team Operations](lessons/mod-701-team-operations/)
 **Version:** 1.0.0
 **Maintained by:** AI Infrastructure Curriculum Team
 **Contact:** ai-infra-curriculum@joshua-ferguson.com
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
