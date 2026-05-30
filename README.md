@@ -355,9 +355,8 @@ Begin with [Module 701: Team Operations](lessons/mod-701-team-operations/)
 
 **Last Updated:** October 2025
 **Version:** 1.0.0
-**Maintained by:** AI Infrastructure Curriculum Team
-**Contact:** ai-infra-curriculum@joshua-ferguson.com
 
+**Contact:** ai-infra-curriculum@joshua-ferguson.com
 
 ---
 
