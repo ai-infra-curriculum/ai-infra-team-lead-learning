@@ -40,12 +40,12 @@ Each row is a sibling org: what you hand them, what they hand you, and the role 
 |-----|---------------|---------------|--------------------------|
 | AI Startup | Unit economics: what each request, user, or customer costs to serve, and how that changes with scale | Growth forecasts, cost targets, and reliability commitments that set the platform's budget | [Co-Founder / CTO](https://github.com/ai-startup-curriculum/cto-curriculum) |
 | AI Governance | Audit logs, access controls, data-residency guarantees, and evidence that controls actually run in production | Control requirements (logging, access, retention, residency) and the evidence they need to produce | [Agentic Safety & Red-Team Engineer](https://github.com/ai-governance-curriculum/agentic-safety-engineer-learning) |
-| AI Engineering | Serving endpoints with known latency, throughput, rate limits, and cost per call, plus the telemetry to debug them | Traffic shapes, latency budgets, and model-mix requirements, so capacity and routing match how the product actually calls models | [Senior Agentic AI Engineer](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning) |
+| AI Engineering | Serving endpoints with known latency, throughput, rate limits, and cost per call, plus the telemetry to debug them | Traffic shapes, latency budgets, and model-mix requirements, so capacity and routing match how the product actually calls models | [Agent Platform Engineer](https://github.com/ai-engineering-curriculum/agent-platform-engineer-learning) |
 | ML Engineering | Training and fine-tuning clusters, experiment and artifact storage, and a path to production for the models they produce | Model artifacts with known resource profiles (memory, throughput, precision) and the training workloads they need to schedule | [Staff Machine Learning Engineer](https://github.com/ml-engineering-curriculum/staff-ml-engineer-learning) |
 
 ## Your ladder
 
-- **Before this role:** [AI Inference Engineer](https://github.com/AI-Infra-Curriculum/ai-infra-inference-engineer-learning), [AI Infrastructure Performance Engineer](https://github.com/AI-Infra-Curriculum/ai-infra-performance-learning)
+- **Before this role:** [AI Inference Engineer](https://github.com/AI-Infra-Curriculum/ai-infra-inference-engineer-learning), [AI Infrastructure Performance Engineer](https://github.com/AI-Infra-Curriculum/ai-infra-performance-learning), [AI Reliability Engineer (AI SRE)](https://github.com/AI-Infra-Curriculum/ai-infra-sre-learning)
 - **After this role:** [AI Infrastructure Architect](https://github.com/AI-Infra-Curriculum/ai-infra-architect-learning)
 
 ## Scenario: One model upgrade, five orgs
